@@ -1,1 +1,2 @@
-# HA-UI
+\## Lovelace Dashboard Card
+
