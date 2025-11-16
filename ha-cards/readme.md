@@ -1,0 +1,2 @@
+\## Lovelace Dashboard Card
+
