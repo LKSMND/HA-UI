@@ -23,4 +23,4 @@ class HaCards extends HTMLElement {
   }
 }
 
-customElements.define("ha-cards", MyFirstCard);
+customElements.define("ha-cards", HaCards);
